@@ -1,6 +1,8 @@
 # Knowledge-Based-Community-Sharing-System
-# Urban-Furnish
-Its a  web application which helps people to select and buy furniture the one which they like, and stay updated about new and contemporary furniture designs.
+The basic idea of KBCSS is to provide an environment for the
+students and faculty of a university to enhance their technical skills
+and to share their knowledge with their fellow students or
+faculty/researchers/industrial experts.
 # Installations
 ### MySql
 Database System
@@ -8,12 +10,9 @@ Database System
 ### Java
 Back-End framework
 
-### HTML5, CSS, Bootstrap
+### HTML5, CSS
 Front-End Framework
 
 ### Apache Tomcat 8.0
 Server
 * [Tomcat 8.0](https://tomcat.apache.org/download-80.cgi) - The server used
-### Email 
-SMTP Library
-* [SMPT 1.4.4](http://www.java2s.com/Code/Jar/s/Downloadsmtp144jar.htm) - The Email SMTP library used
